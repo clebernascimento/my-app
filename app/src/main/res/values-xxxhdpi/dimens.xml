@@ -1,0 +1,12 @@
+<resources>
+	<dimen name="include_txt_description_margin_top">24dp</dimen>
+	<dimen name="include_txt_description_margin_start">24dp</dimen>
+	<dimen name="include_txt_description_margin_end">24dp</dimen>
+	<dimen name="include_btn_down_cv_margin_top">48dp</dimen>
+	<dimen name="slide_title">24sp</dimen>
+	<dimen name="dots_margin_bottom">24dp</dimen>
+	<dimen name="desc_padding">24dp</dimen>
+	<dimen name="slide_desc">24sp</dimen>
+	<dimen name="layout_social_networks_margin_top">48dp</dimen>
+	<dimen name="layout_photo_marginStart">24dp</dimen>
+</resources>

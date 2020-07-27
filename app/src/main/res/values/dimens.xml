@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="include_txt_description_margin_top">8dp</dimen>
+    <dimen name="include_txt_description_margin_start">8dp</dimen>
+    <dimen name="include_txt_description_margin_end">8dp</dimen>
+    <dimen name="include_btn_down_cv_margin_top">16dp</dimen>
+    <dimen name="slide_title">8sp</dimen>
+    <dimen name="dots_margin_bottom">8dp</dimen>
+    <dimen name="slide_desc">8sp</dimen>
+    <dimen name="desc_padding">8dp</dimen>
+    <dimen name="layout_social_networks_margin_top">16dp</dimen>
+    <dimen name="layout_photo_marginStart">8dp</dimen>
+</resources>

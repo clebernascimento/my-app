@@ -1,0 +1,12 @@
+<resources>
+	<dimen name="include_txt_description_margin_top">9.6dp</dimen>
+	<dimen name="include_txt_description_margin_start">9.6dp</dimen>
+	<dimen name="include_txt_description_margin_end">9.6dp</dimen>
+	<dimen name="include_btn_down_cv_margin_top">19.2dp</dimen>
+	<dimen name="slide_title">9.6sp</dimen>
+	<dimen name="dots_margin_bottom">9.6dp</dimen>
+	<dimen name="desc_padding">9.6dp</dimen>
+	<dimen name="slide_desc">9.6sp</dimen>
+	<dimen name="layout_social_networks_margin_top">19.2dp</dimen>
+	<dimen name="layout_photo_marginStart">9.6dp</dimen>
+</resources>

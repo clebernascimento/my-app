@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">PRÓXIMO</string>
+    <string name="skip">PULAR</string>
+    <string name="start">ENTENDI</string>
+
+    <string name="slide_1_desc">Sistema simples para você organizar suas finanças de forma rapida e organizada!</string>
+
+    <string name="slide_2_desc">Adicione seus ganhos e gastos diários!</string>
+
+    <string name="slide_3_desc">Adicione uma conta bancaria, um cartão de crédito pesssoal e suas contas diárias! </string>
+
+    <string name="slide_4_desc">Acompanhe seu resumo mensal, limites da sua conta pessoal e de crédito e suas contas parceladas!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_name">Cleber Nascimento</string>
+    <string name="text_description">Formado em Análise e Desenvolvimento de Sistemas pela Faculdae Uniasselvi. Pós Graduado em Especialização em Desenvolvimento de Aplicações Moveis (APP\'s). Atualmente Atuando como Desenvolvedor Android e Apaixonado por Tecnologia.</string>
+    <string name="text_profession">Desenvolvedor Mobile Android</string>
+    <string name="text_header_home">HOME</string>
+    <string name="text_button_cv">Download CV</string>
+    <string name="text_portfolio">Meu Portfólio</string>
+</resources>
