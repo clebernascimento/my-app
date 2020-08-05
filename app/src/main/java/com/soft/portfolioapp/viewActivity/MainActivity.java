@@ -13,6 +13,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationItemView;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.soft.portfolioapp.R;
 import com.soft.portfolioapp.viewFragments.HomeFragment;
+import com.soft.portfolioapp.viewFragments.ProfileFragment;
 
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
 
@@ -56,6 +57,8 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
                 break;
 
             case R.id.navigation_experience:
+                Fragment profileFragment = new ProfileFragment();
+                openFragment(profileFragment);
 
                 break;
 

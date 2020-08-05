@@ -9,4 +9,9 @@
 	<dimen name="slide_desc">19.2sp</dimen>
 	<dimen name="layout_social_networks_margin_top">38.4dp</dimen>
 	<dimen name="layout_photo_marginStart">19.2dp</dimen>
+	<dimen name="marginTop8">19.2dp</dimen>
+	<dimen name="marginStart8">19.2dp</dimen>
+	<dimen name="marginTop4">9.6dp</dimen>
+	<dimen name="marginEnd8">19.2dp</dimen>
+	<dimen name="marginBottom8">19.2dp</dimen>
 </resources>

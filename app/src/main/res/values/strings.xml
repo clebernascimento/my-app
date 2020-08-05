@@ -25,4 +25,5 @@
     <string name="text_header_home">HOME</string>
     <string name="text_button_cv">Download CV</string>
     <string name="text_portfolio">Meu Portfólio</string>
+    <string name="text_header_about">Sobre</string>
 </resources>
